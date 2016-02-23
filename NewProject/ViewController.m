@@ -21,7 +21,7 @@
 }
 
 - (void)newF:(id)sender{
-    NSLog(@"testooo1");
+    NSLog(@"testooo189");
 }
 
 - (void)didReceiveMemoryWarning {
